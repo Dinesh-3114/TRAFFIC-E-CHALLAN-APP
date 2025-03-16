@@ -24,14 +24,15 @@ Installation and Setup
 1. Install Java Development Kit (JDK) and Android Studio.  
 2. Clone the repository and open it in Android Studio.  
 3. Install necessary dependencies.  
-4. Run the application on an Android device or emulator.  
+4. Run the application on an Android device or emulator.
+
+
 Expected Output
 Traffic officers can issue and store challans digitally, and violators receive notifications instantly.
 
 Future Enhancements
 Integration with online payment gateways.
 Enhanced analytics for better traffic management.
-Addition of a QR code scanning system for quick verification.
 
 Contributor
 B. Dhinesh Reddy
